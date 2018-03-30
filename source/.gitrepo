@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/matryx/matryx-alpha-source
+	branch = develop
+	commit = 0e7452bdd74b6deda023a065433efda012b51cac
+	parent = 661213f1dc7d6ecd894ad36051855a2f91fdb9d1
+	cmdver = 0.3.1
