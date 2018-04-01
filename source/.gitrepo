@@ -6,6 +6,6 @@
 [subrepo]
 	remote = https://github.com/matryx/matryx-alpha-source
 	branch = develop
-	commit = 8ef0b1b6210e2b763e1d944110463afaade197a3
-	parent = 141c5ad690cdeaa74765cd0a7198bcac11faf24b
+	commit = 49986ed04a2d43ec8427cb452271611a439f00d0
+	parent = 6af977f632119c537d156576a2438abfd69755be
 	cmdver = 0.3.1
