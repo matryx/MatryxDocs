@@ -1,1 +1,1 @@
-.. include:: ../../MatryxExplorer/index.rst
+.. include:: ../MatryxExplorer/docs/source/index.rst
