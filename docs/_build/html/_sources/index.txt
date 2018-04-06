@@ -47,8 +47,8 @@ The main documentation for the site is organized into a couple sections:
    :glob:
    :caption: API Documentation
 
-   source
-   MatryxExplorer
+   platform
+   explorer
 
 .. _dev-docs:
 

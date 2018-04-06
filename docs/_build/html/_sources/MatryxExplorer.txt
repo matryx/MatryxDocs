@@ -1,1 +1,0 @@
-.. include:: ../MatryxExplorer/index.rst
