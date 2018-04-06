@@ -1,1 +1,1 @@
-.. include:: ../platform/docs/index.rst
+.. include:: ../platform/index.rst

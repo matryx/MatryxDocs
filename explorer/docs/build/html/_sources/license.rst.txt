@@ -1,7 +1,0 @@
-Matryx License Agreement
-========================
-
-
-
-Contact
-=======

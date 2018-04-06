@@ -1,1 +1,1 @@
-.. include:: ../explorer/docs/source/index.rst
+.. include:: ../explorer/docs/source/explorer_index.rst
