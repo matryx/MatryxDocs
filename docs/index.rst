@@ -47,7 +47,7 @@ The main documentation for the site is organized into a couple sections:
    :glob:
    :caption: API Documentation
 
-   Matryx Platform <http://matryxplatform.readthedocs.io>
+   Matryx Platform <http://matryx-platform.readthedocs.io>
    Matryx Explorer <http://matryxexplorer.readthedocs.io>
 
 .. _dev-docs:
