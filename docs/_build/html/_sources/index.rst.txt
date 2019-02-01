@@ -13,6 +13,8 @@ To check out the code, please visit our `Github`_!
 
 Here you can look at the User Documentation for interacting with the Matryx Platform as well as documentation for the Matryx Platform Contracts and open-source Explorer API.
 
+The current version is: AlphaQ4-2018
+
 .. _user-docs:
 
 .. toctree::
