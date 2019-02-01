@@ -11,11 +11,7 @@ To check out the code, please visit our `Github`_!
 .. _whitepaper: https://matryx.ai/whitepaper.html
 .. _GitHub: https://github.com/Matryx/
 
-The main documentation for the site is organized into a couple sections:
-
-* :ref:`user-docs`
-* :ref:`interface-docs`
-* :ref:`api-docs`
+Here you can look at the User Documentation for interacting with the Matryx Platform as well as documentation for the Matryx Platform Contracts and open-source Explorer API.
 
 .. _user-docs:
 
@@ -28,17 +24,6 @@ The main documentation for the site is organized into a couple sections:
    features
    support
    faq
-
-.. _interface-docs:
-
-.. toctree::
-   :maxdepth: 2
-   :glob:
-   :caption: Interface Documentation
-
-   interfaces/web
-   interfaces/calcflow
-   interfaces/core
 
 .. _api-docs:
 
