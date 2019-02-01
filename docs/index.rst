@@ -2,7 +2,7 @@
 Welcome to the Matryx Documentation!
 ====================================
 
-`Matryx`_ is a Collaborative Research and Development Engine Optimized for Virtual Reality Interfaces. Through the Matryx Platform, scientists, mathematicians, artists and tinkerers alike can post and hunt bounties for just about anything. We leave it up to you what problems to solve but keep track of your progress along the way so that you will continue to be rewarded for the work you have done so long as we can track it on our platform.
+`Matryx`_ is a Secure Research and Development Platform which supports crowdsourced science, collaboration tracking, trustless attribution, and authorized 3rd party timestamping on the blockchain. Through the Matryx Platform, scientists, mathematicians, artists and tinkerers alike can post and hunt bounties for just about anything. We leave it up to you what problems to solve but keep track of your progress along the way so that you will continue to be rewarded for the work you have done. 
 
 A full description about the platform is in our `whitepaper`_.
 To check out the code, please visit our `Github`_!
