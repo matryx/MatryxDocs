@@ -21,9 +21,6 @@ Here you can look at the User Documentation for interacting with the Matryx Plat
 
    getting_started
    versions
-   features
-   support
-   faq
 
 .. _api-docs:
 
