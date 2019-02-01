@@ -9,7 +9,7 @@ To check out the code, please visit our `Github`_!
 
 .. _Matryx: http://matryx.ai/
 .. _whitepaper: https://matryx.ai/whitepaper.html
-.. _GitHub: https://github.com/matryx/Matryx
+.. _GitHub: https://github.com/Matryx/
 
 The main documentation for the site is organized into a couple sections:
 
